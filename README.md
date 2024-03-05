@@ -4,7 +4,7 @@
 
 ## Description
 
-I wanted to clean up the code for the website, using my new understanding of both HTML and CSS. I used my understanding of "grouping" elements to reduce the ammount of excess code cluttering the file.
+I wanted to adjust/fix the code for the Horiseon website, using my new understanding of both HTML and CSS. I used my understanding of "grouping" elements to reduce the ammount of excess code cluttering the file, as well as making sure the site followed accesibility standards.
 
 ## Link
 https://ashe-eg.github.io/Horiseon_Alek/
